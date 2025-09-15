@@ -1,5 +1,5 @@
 리눅스 명령어
-vi filename
+vi 파일명
 
 깃 명령어
 git commit --amend -m "수정할커밋메세지"
